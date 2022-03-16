@@ -6,5 +6,9 @@ namespace ConsoleApp5
 {
     class NewClass
     {
+        int blabla()
+        {
+        return 2;
+        }
     }
 }
